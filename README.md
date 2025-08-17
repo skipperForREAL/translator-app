@@ -26,8 +26,8 @@ A simple and elegant **Streamlit** web app that allows you to translate text bet
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/universal-language-translator.git
-   cd universal-language-translator
+   git clone https://github.com/yourusername/translator-app.git
+   cd translator-app
    ```
 
 2. **Create a virtual environment (recommended)**
